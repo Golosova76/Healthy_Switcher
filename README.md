@@ -1,6 +1,6 @@
 # Healthy_Switcher
 
-This is the Consulting Agency website.
+This is the food delivery service website.
 
 This page is created with:
 - HTML
